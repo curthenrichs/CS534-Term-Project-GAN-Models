@@ -17,3 +17,11 @@ Important notebooks
 * Comparison DCGAN T.ipynb
 * Comparison GAN 2.ipynb
 * DCGAN_Sprite_items_weapons.ipynb
+
+## Team
+This project was developed for CS 534 - Computational Photography fall 2018 course at the University of Wisconsin Madison.
+
+We are,
+- Curt Henrichs (Graduate Student)
+- Sayem Wani (Undergrad Student)
+- Saheen Feroz (Undergrad Student)
